@@ -38,5 +38,5 @@ Build artifacts will be in `salute-paper/build/libs/` and `salute-velocity/build
 
 ## Contributing
 
-Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request
 
