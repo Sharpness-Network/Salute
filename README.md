@@ -40,6 +40,3 @@ Build artifacts will be in `salute-paper/build/libs/` and `salute-velocity/build
 
 Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
