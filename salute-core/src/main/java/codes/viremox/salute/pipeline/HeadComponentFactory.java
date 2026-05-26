@@ -42,10 +42,6 @@ public final class HeadComponentFactory {
                 .build();
 
         Component head = Component.object(contents);
-
-        if (shadow != null) {
-            return head.style(Style.style().shadowColor(shadow).build());
-        }
         return head.color(NamedTextColor.WHITE);
     }
 }
